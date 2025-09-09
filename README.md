@@ -12,6 +12,8 @@ This is the typical GIT workflow on a project.
 
 Edited file
 
+This is Nicholas' Edits:
 
+ChatGPT needs to get deleted and it's remains sent directly into the sun.
 
 
