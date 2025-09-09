@@ -12,6 +12,8 @@ This is the typical GIT workflow on a project.
 
 Edited file
 
+This is Ryan's edits.
+
 
 
 
