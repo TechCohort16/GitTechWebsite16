@@ -1,17 +1,14 @@
-In this exercise you practice using GIT by working on a website with your team. This is part of the Git   This will allow everyone to practice the following:
+In this exercise you practice using GIT by working on cloning and merging changes to your branch. This will allow everyone to practice the following:
 
 - Cloning a repository
-- Pulling from the main branch
-- Creating a branch
-- Adding specific changes to the website
-- Submit a pull request (on GitHub)
-- Get pull request merged
-- Update your branch with completed project
+- Pulling changes from the main branch
+- Creating a feature branch
+- Adding specific changes to the README.md file in your feature branch
+- Merge main branch to your local branch
 
-This is the typical GIT workflow on a project. 
 
 Edited file
-
+Another edit.
 Brandon's Edit
 
 
