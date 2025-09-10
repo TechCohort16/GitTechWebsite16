@@ -11,7 +11,7 @@ In this exercise you practice using GIT by working on a website with your team. 
 This is the typical GIT workflow on a project. 
 
 Edited file
-
+Another edit.
 
 
 
