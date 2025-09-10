@@ -8,7 +8,9 @@ In this exercise you practice using GIT by working on cloning and merging change
 
 
 Edited file
-Another edit.
+
+This is Samuel Raimo's edit. Sauce
+
 
 
 
