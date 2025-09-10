@@ -7,8 +7,8 @@ In this exercise you practice using GIT by working on cloning and merging change
 - Merge main branch to your local branch
 
 
-Edited file
-Another edit.
+Eswatini
+
 
 
 
