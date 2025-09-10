@@ -8,6 +8,9 @@ In this exercise you practice using GIT by working on cloning and merging change
 
 
 Edited file
+
+This is Ryan's edits.
+
 Another edit.
 
 
