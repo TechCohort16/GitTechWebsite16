@@ -12,6 +12,8 @@ This is the typical GIT workflow on a project.
 
 Edited file. RM made this change.
 
+Edited file
+Another edit.
 
 
 
